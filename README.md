@@ -1,5 +1,5 @@
 # Tracking App
-Aplicación que  muestras las coordenadas de un usuario, las va almacenando en una base de datos,
+Aplicación que  muestra las coordenadas de un usuario, las va almacenando en una base de datos,
 permitiendo recuperar la información si el usuario cierra la aplicación. Ademas cuenta con un servicio en segundo plano.
 
 Detalles importantes:
@@ -11,8 +11,8 @@ Detalles importantes:
 Vistas importantes:
 
 - Splash Screen: Es la primera vista que ve el usuario. Muestra el logo de la aplicación y luego envía al usuario a la vista de introducción.
-- Vista Introducción:  Una pequeda descripción de la aplicación.
-- Vista Principal: Muestra a las coordenadas en formato lista.
+- Vista Introducción:  Una descripción de la aplicación.
+- Vista Principal: Muestra las coordenadas en formato lista.
 
 
 Librerías más importantes utilizadas:
