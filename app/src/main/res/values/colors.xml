@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="organge1"> #F8934D</color>
+    <color name="organge2"> #F7765A</color>
+    <color name="organge3"> #F8934D</color>
+
+
+    <color name="horizontal_vertical_">#4a8dce</color>
+    <color name="white1_transparent">#80e7e7e7</color>
+    <color name="black1">#646464</color>
+    <color name="black1_test">#9f9f9f</color>
+    <color name="plomo">#b3b3b3</color>
+    <color name="white_border_image">#dcdcdc</color>
+
+
+    <color name="white1_initial">#fafafa</color>
+    <color name="white1">#E7E7E7</color>
+    <color name="white01">#f7f7f7</color>
+    <color name="white2">#cfcfcf</color>
+    <color name="white3">#e3e3e3</color>
+
+    <color name="grey_percent_95">#F2F2F2</color>
+
+    <color name="white_f1">#f1f1f1</color>
+
+    <color name="black_elegant">#313131</color>
+
+    <color name="green_200">#68EFAD</color>
+    <color name="orange_200">#FFCC80</color>
+
+    <color name="gray_300">#E0E0E0</color>
+
+    <color name="green_minimalist">#27BE92</color>
+
+    <color name="status_bar_sheet">#0D2E50</color>
+    <color name="green_principal">#73ca5b</color>
+    <color name="green_principal_second">#5ca148</color>
+    <color name="green_second">#74C95B</color>
+    <color name="green_android">#009688</color>
+</resources>

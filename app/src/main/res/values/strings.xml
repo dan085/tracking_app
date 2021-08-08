@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Transvip Test</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="home">Inicio</string>
+    <string name="stop_services">Detener Servicio</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main_home">MainActivityHome</string>
+    <string name="introduction">Introducción</string>
+    <string name="intro_one"><![CDATA[1. <b>Aplicación</b> que guardar las coordenadas del usuario en una base de datos de FireBase ]]></string>
+    <string name="intro_two"><![CDATA[2. Al presionar el <b> botón comenzar</b>, solicitará el permiso de localización e ingresará a una vista en donde mostrará las coordenadas <b>actualizadas de la base de datos</b> en tiempo real y en segundo plano. Aparecerán en <b>formato lista</b> y se irán actualizando. Podrá hacer <b>click</b> sobre la coordenada.]]></string>
+    <string name="intro_three"><![CDATA[3. Las Coordenadas se obtendran cada  <b>8 segundos aproximadamente</b>.]]></string>
+
+    <string name="longitude">Longitud</string>
+    <string name="latitude">Latitud</string>
+    <string name="click">Realizó un Click</string>
+    <string name="stopped_service">Servicio Detenido</string>
+    <string name="date">Fecha</string>
+    <string name="begin">Comenzar</string>
+    <string name="access_denied">Acceso rechazado</string>
+    <string name="title_activity_main_splash_screen">MainActivitySplashScreen</string>
+
+    <string name="loading_infotmation">Cargando Información.....</string>
+    <string name="title_activity_main_pruebaaa">MainActivityPruebaaa</string>
+    <string name="title_activity_main_activitypppppppp">MainActivitypppppppp</string>
+
+
+</resources>

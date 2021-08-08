@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/btn_circle.xml" value="0.30364583333333334" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.2791666666666667" />
+        <entry key="app/src/main/res/drawable/selector_adapter.xml" value="0.24322916666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main_introducion.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main_pruebaaa.xml" value="0.1539855072463768" />
+        <entry key="app/src/main/res/layout/activity_main_splash_screen.xml" value="0.21979166666666666" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_main_activity_splash_screen.xml" value="0.23777173913043478" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/list_row_item.xml" value="0.29895368155645463" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.2833333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

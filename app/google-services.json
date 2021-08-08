@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "111526537472",
+    "firebase_url": "https://transvip-b8d58-default-rtdb.firebaseio.com",
+    "project_id": "transvip-b8d58",
+    "storage_bucket": "transvip-b8d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111526537472:android:64bba75b927cd9e81febe5",
+        "android_client_info": {
+          "package_name": "com.transvip.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111526537472-154va92aa9fj1r95i9p5o08p2qs7v29o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjecdOFJtpQbm6IIoAF-z9rfr1MlJ4yT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111526537472-154va92aa9fj1r95i9p5o08p2qs7v29o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

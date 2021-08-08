@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.transvip.test">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- Solicitar permiso  a internet. -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /><!-- Requerido para ejecutar servicios en background-->
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TransvipTest">
+        <activity
+            android:name=".ui.introduction.MainActivityIntroducion"
+            android:exported="true"
+            android:theme="@style/Theme.TransvipTest.NoActionBar" />
+        <activity
+            android:name=".ui.home.MainActivityHome"
+            android:exported="true"
+            android:label="@string/title_activity_main_splash_screen"
+            android:theme="@style/Theme.TransvipTest.NoActionBar" />
+        <activity
+            android:name=".ui.splashScreen.MainActivitySplashScreen"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.TransvipTest.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Importante definir el servicios de esta manera-->
+        <service
+            android:name=".service.LocationService"
+            android:enabled="true"
+            android:exported="false"
+            android:foregroundServiceType="location"
+            />
+    </application>
+
+</manifest>
